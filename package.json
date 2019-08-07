@@ -1,0 +1,24 @@
+{
+	"name": "moon-loader",
+	"version": "1.0.0-alpha.1",
+	"description": "Webpack loader for Moon",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kbrsh/parcel-plugin-moon.git"
+	},
+	"keywords": [
+		"moon",
+		"webpack",
+		"loader"
+	],
+	"author": "Kabir Shah",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kbrsh/moon-loader/issues"
+	},
+	"homepage": "https://github.com/kbrsh/moon-loader#readme",
+	"peerDependencies": {
+		"moon-compiler": "*"
+	}
+}
