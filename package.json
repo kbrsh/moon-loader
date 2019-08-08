@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kbrsh/parcel-plugin-moon.git"
+		"url": "git+https://github.com/kbrsh/moon-loader.git"
 	},
 	"keywords": [
 		"moon",
